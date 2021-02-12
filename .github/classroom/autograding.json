@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "testcase",
+      "setup": "bundle install",
+      "run": "rails test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    }
+  ]
+}
