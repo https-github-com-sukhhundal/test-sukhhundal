@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "testcase",
-      "setup": "bundle install",
-      "run": "rails test",
-      "input": "",
-      "output": "",
+      "name": "hello",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "sukhi",
+      "output": "Hello sukhi",
       "comparison": "included",
       "timeout": 1,
-      "points": 5
+      "points": 1
     }
   ]
 }
